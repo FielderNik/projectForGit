@@ -7,5 +7,8 @@ public class mainClass {
             count++;
             Thread.sleep(1000);
         }
+        for (int i = 0; i < 5; i++){
+            System.out.print("H: " + i + " | ");
+        }
     }
 }
