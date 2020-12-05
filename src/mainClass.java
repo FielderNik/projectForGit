@@ -10,5 +10,6 @@ public class mainClass {
         for (int i = 0; i < 5; i++){
             System.out.print("H: " + i + " | ");
         }
+        System.out.println("Stop");
     }
 }
